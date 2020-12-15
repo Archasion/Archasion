@@ -23,7 +23,7 @@ At the moment, I am trying to find clients so I would be able to gain more work 
 
 ## 📖 Currently Learning
 
-<img src="https://img.shields.io/badge/Framework-Angular-green" alt="Angular"> <img src="https://img.shields.io/badge/Code-Rust-green" alt="Rust"> <img src="https://img.shields.io/badge/Code-SQL-green" alt="SQL"> <img src="https://img.shields.io/badge/Code-Java-green" alt="Java"> <img src="https://img.shields.io/badge/Library-Javacord-green" alt="Javacord">
+<img src="https://img.shields.io/badge/Framework-Angular-red" alt="Angular"> <img src="https://img.shields.io/badge/Code-Rust-brown" alt="Rust"> <img src="https://img.shields.io/badge/Library-Serenity-brown" alt="Serenity"> <img src="https://img.shields.io/badge/Code-Java-orange" alt="Java"> <img src="https://img.shields.io/badge/Library-Javacord-orange" alt="Javacord"> <img src="https://img.shields.io/badge/Code-SQL-blue" alt="SQL"> <img src="https://img.shields.io/badge/Code-MongoDB-green" alt="MongoDB">
 
 <br>
 

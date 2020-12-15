@@ -27,6 +27,6 @@ At the moment, I am trying to find clients so I would be able to gain more work 
 
 <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amusingdev&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amusingdev&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&include_all_commits=true)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amusingdev&theme=vision-friendly-dark&layout=default&hide_border=true&card_width=495px)](https://github.com/amusingdev)

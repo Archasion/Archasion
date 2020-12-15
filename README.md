@@ -10,7 +10,7 @@ At the moment, I am trying to find clients so I would be able to gain more work 
 
 ## 🔧 Technologies and Tools
 
-<img src="https://img.shields.io/badge/OS-Windows-blue" alt="Windows"> <img src="https://img.shields.io/badge/Editor-Atom-orange" alt="Atom"> <img src="https://img.shields.io/badge/Code-HTML-green" alt="HTML"> <img src="https://img.shields.io/badge/Code-CSS-green" alt="CSS"> <img src="https://img.shields.io/badge/Code-JavaScript-green" alt="JavaScript"> <img src="https://img.shields.io/badge/Library-JQuery-green" alt="JQuery"> <img src="https://img.shields.io/badge/Runtime-Node.js-green" alt="Node.js"> <img src="https://img.shields.io/badge/Library-discord.js-green" alt="discord.js">
+<img src="https://img.shields.io/badge/OS-Windows-blue" alt="Windows"> <img src="https://img.shields.io/badge/Editor-Atom-green" alt="Atom"> <img src="https://img.shields.io/badge/Code-HTML-red" alt="HTML"> <img src="https://img.shields.io/badge/Code-CSS-blue" alt="CSS"> <img src="https://img.shields.io/badge/Code-JavaScript-yellow" alt="JavaScript"> <img src="https://img.shields.io/badge/Library-JQuery-yellow" alt="JQuery"> <img src="https://img.shields.io/badge/Library-discord.js-yellow" alt="discord.js"> <img src="https://img.shields.io/badge/Runtime-Node.js-green" alt="Node.js">
 
 ## 💻 Projects
 

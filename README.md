@@ -1,6 +1,6 @@
 ## 👋 Hello There
 
-My name is James, and I am a freelancing **Front End Developer**, with experience using HTML, CSS, JavaScript, Node.js, JQuery, discord.js, and SQL.
+My name is James, and I am a freelancing **Front-End Developer**, with experience using HTML, CSS, JavaScript, Node.js, JQuery, discord.js, and SQL.
 
 I am exceptionally passionate about utilizing my creativity in designing; developing a professional website for my clients. I am regularly looking for feedback to assist me in strengthening my skills.
 
@@ -14,9 +14,10 @@ At the moment, I am trying to find clients so I would be able to gain more work 
 
 ## 💻 Projects
 
-🕷️ [Game-Bug Bot](https://github.com/AmusingDev/Game-Bug-Bot) (Verified Discord Bot) <br>
-🚫 [BetterFilter](https://github.com/AmusingDev/BetterFilter) (Discord Bot) <br>
-📝 [Badge Info](https://github.com/AmusingDev/Badge-Info) (Discord Bot)
+<img src="https://github.com/AmusingDev/AmusingDev/blob/main/images/js.png?raw=true" width="15px" height="15px" alt="js-icon"> &nbsp; [Game-Bug Bot](https://github.com/AmusingDev/Game-Bug-Bot) (Verified Discord Bot) <br>
+<img src="https://github.com/AmusingDev/AmusingDev/blob/main/images/js.png?raw=true" width="15px" height="15px" alt="js-icon"> &nbsp; [BetterFilter](https://github.com/AmusingDev/BetterFilter) (Discord Bot) <br>
+<img src="https://github.com/AmusingDev/AmusingDev/blob/main/images/js.png?raw=true" width="15px" height="15px" alt="js-icon"> &nbsp; [Badge Info](https://github.com/AmusingDev/Badge-Info) (Discord Bot) <br>
+<img src="https://github.com/AmusingDev/AmusingDev/blob/main/images/js.png?raw=true" width="15px" height="15px" alt="js-icon"> &nbsp; [Amusing Helper](https://github.com/AmusingDev/Amusing-Helper) (Open-source Discord Bot) 
 
 ## 📖 Currently Learning
 

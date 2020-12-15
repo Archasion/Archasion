@@ -17,7 +17,9 @@ At the moment, I am trying to find clients so I would be able to gain more work 
 <img src="https://github.com/AmusingDev/AmusingDev/blob/main/images/js.png?raw=true" width="15px" height="15px" alt="js-icon"> &nbsp; [Game-Bug Bot](https://github.com/AmusingDev/Game-Bug-Bot) (Verified Discord Bot) <br>
 <img src="https://github.com/AmusingDev/AmusingDev/blob/main/images/js.png?raw=true" width="15px" height="15px" alt="js-icon"> &nbsp; [BetterFilter](https://github.com/AmusingDev/BetterFilter) (Discord Bot) <br>
 <img src="https://github.com/AmusingDev/AmusingDev/blob/main/images/js.png?raw=true" width="15px" height="15px" alt="js-icon"> &nbsp; [Badge Info](https://github.com/AmusingDev/Badge-Info) (Discord Bot) <br>
-<img src="https://github.com/AmusingDev/AmusingDev/blob/main/images/js.png?raw=true" width="15px" height="15px" alt="js-icon"> &nbsp; [Amusing Helper](https://github.com/AmusingDev/Amusing-Helper) (Open-source Discord Bot) 
+<img src="https://github.com/AmusingDev/AmusingDev/blob/main/images/js.png?raw=true" width="15px" height="15px" alt="js-icon"> &nbsp; [Amusing Helper](https://github.com/AmusingDev/Amusing-Helper) (Open-source Discord Bot)
+
+<img src="https://github.com/AmusingDev/AmusingDev/blob/main/images/html.png?raw=true" width="18px" height="18px" alt="js-icon"> &nbsp; [amusing.dev](https://amusing.dev)
 
 ## 📖 Currently Learning
 

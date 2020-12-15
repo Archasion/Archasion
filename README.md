@@ -10,7 +10,7 @@ At the moment, I am trying to find clients so I would be able to gain more work 
 
 ## 🔧 Technologies and Tools
 
-<img src="https://img.shields.io/badge/OS-Windows-blue" alt="Windows"> <img src="https://img.shields.io/badge/Editor-Atom-green" alt="Atom"> <img src="https://img.shields.io/badge/Code-HTML-red" alt="HTML"> <img src="https://img.shields.io/badge/Code-CSS-blue" alt="CSS"> <img src="https://img.shields.io/badge/Code-JavaScript-yellow" alt="JavaScript"> <img src="https://img.shields.io/badge/Library-JQuery-yellow" alt="JQuery"> <img src="https://img.shields.io/badge/Library-discord.js-yellow" alt="discord.js"> <img src="https://img.shields.io/badge/Runtime-Node.js-green" alt="Node.js">
+<img src="https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge" alt="Windows"> <img src="https://img.shields.io/badge/Editor-Atom-green?style=for-the-badge" alt="Atom"> <img src="https://img.shields.io/badge/Code-HTML-red?style=for-the-badge" alt="HTML"> <img src="https://img.shields.io/badge/Code-CSS-blue?style=for-the-badge" alt="CSS"> <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge" alt="JavaScript"> <img src="https://img.shields.io/badge/Library-JQuery-yellow?style=for-the-badge" alt="JQuery"> <img src="https://img.shields.io/badge/Library-discord.js-yellow?style=for-the-badge" alt="discord.js"> <img src="https://img.shields.io/badge/Runtime-Node.js-green?style=for-the-badge" alt="Node.js">
 
 ## 💻 Projects
 

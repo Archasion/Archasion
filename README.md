@@ -8,7 +8,7 @@ Experience with JavaScript, Node.js, and discord.js has helped me develop multip
 
 ## 🔧 Technologies and Tools
 
-<img src="https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge" alt="Windows"> <img src="https://img.shields.io/badge/Editor-Atom-green?style=for-the-badge" alt="Atom"> <img src="https://img.shields.io/badge/Code-HTML-red?style=for-the-badge" alt="HTML"> <img src="https://img.shields.io/badge/Code-CSS-blue?style=for-the-badge" alt="CSS"> <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge" alt="JavaScript"> <img src="https://img.shields.io/badge/Library-JQuery-yellow?style=for-the-badge" alt="JQuery"> <img src="https://img.shields.io/badge/Library-discord.js-yellow?style=for-the-badge" alt="discord.js"> <img src="https://img.shields.io/badge/Runtime-Node.js-green?style=for-the-badge" alt="Node.js">
+<img src="https://img.shields.io/badge/OS-Windows-%230074CF?style=for-the-badge" alt="Windows"> <img src="https://img.shields.io/badge/Editor-Atom-%2347D89E?style=for-the-badge" alt="Atom"> <img src="https://img.shields.io/badge/Code-HTML-%23E44D26?style=for-the-badge" alt="HTML"> <img src="https://img.shields.io/badge/Code-CSS-%23254BDD?style=for-the-badge" alt="CSS"> <img src="https://img.shields.io/badge/Code-JavaScript-%23F7E018?style=for-the-badge" alt="JavaScript"> <img src="https://img.shields.io/badge/Library-JQuery-%23F7E018?style=for-the-badge" alt="JQuery"> <img src="https://img.shields.io/badge/Library-discord.js-%23F7E018?style=for-the-badge" alt="discord.js"> <img src="https://img.shields.io/badge/Runtime-Node.js-%23509941?style=for-the-badge" alt="Node.js">
 
 ## 💻 Projects
 

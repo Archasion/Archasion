@@ -1,4 +1,4 @@
-## :wave: Hello there!
+# :wave: Hello there!
 
 My name is Nick, and I am a freelancing **Front-End Developer**, with experience using HTML, CSS, JavaScript, Node.js, JQuery, discord.js, and SQL.
 

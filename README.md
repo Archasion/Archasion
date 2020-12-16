@@ -21,7 +21,7 @@ Experience with JavaScript, Node.js, and discord.js has helped me develop multip
 
 ## 📖 Currently Learning
 
-<img src="https://img.shields.io/badge/Framework-Angular-red?style=for-the-badge" alt="Angular"> <img src="https://img.shields.io/badge/Code-Rust-brown?style=for-the-badge" alt="Rust"> <img src="https://img.shields.io/badge/Library-Serenity-brown?style=for-the-badge" alt="Serenity"> <img src="https://img.shields.io/badge/Code-Java-orange?style=for-the-badge" alt="Java"> <img src="https://img.shields.io/badge/Library-Javacord-orange?style=for-the-badge" alt="Javacord"> <img src="https://img.shields.io/badge/Code-SQL-blue?style=for-the-badge" alt="SQL"> <img src="https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge" alt="MongoDB">
+<img src="https://img.shields.io/badge/Framework-Angular-%23D6032E?style=for-the-badge" alt="Angular"> <img src="https://img.shields.io/badge/Code-Rust-%23EF4A00?style=for-the-badge" alt="Rust"> <img src="https://img.shields.io/badge/Library-Serenity-%23EF4A00?style=for-the-badge" alt="Serenity"> <img src="https://img.shields.io/badge/Code-Java-%23E06C00?style=for-the-badge" alt="Java"> <img src="https://img.shields.io/badge/Library-Javacord-%23E06C00?style=for-the-badge" alt="Javacord"> <img src="https://img.shields.io/badge/Code-SQL-%23006EBF?style=for-the-badge" alt="SQL"> <img src="https://img.shields.io/badge/Database-MongoDB-%23118D4D?style=for-the-badge" alt="MongoDB">
 
 <br>
 

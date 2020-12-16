@@ -1,4 +1,4 @@
-<img src="https://github.com/AmusingDev/AmusingDev/blob/main/images/About.png?raw=true">
+<img src="https://github.com/AmusingDev/AmusingDev/blob/main/images/ABOUT.png?raw=true">
 
 My name is James, and I am a freelancing **Front-End Developer**, with experience using HTML, CSS, JavaScript, Node.js, JQuery, discord.js, and SQL.
 

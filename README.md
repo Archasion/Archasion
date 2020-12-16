@@ -21,7 +21,7 @@ Experience with JavaScript, Node.js, and discord.js has helped me develop multip
 <img src="https://github.com/AmusingDev/AmusingDev/blob/main/images/js.png?raw=true" width="15px" height="15px" alt="js-icon"> &nbsp; [Badge Info](https://github.com/AmusingDev/Badge-Info) (Discord Bot) <br>
 <img src="https://github.com/AmusingDev/AmusingDev/blob/main/images/js.png?raw=true" width="15px" height="15px" alt="js-icon"> &nbsp; [Amusing Helper](https://github.com/AmusingDev/Amusing-Helper) (Open-source Discord Bot)
 
-<img src="https://github.com/AmusingDev/AmusingDev/blob/main/images/html.png?raw=true" width="18px" height="18px" alt="js-icon"> &nbsp; [amusing.dev](https://amusing.dev)
+<img src="https://github.com/AmusingDev/AmusingDev/blob/main/images/html.png?raw=true" width="18px" height="18px" alt="js-icon"> &nbsp; [amusing.dev](https://amusing.dev) (Personal Website - Coming Soon)
 
 <br>
 

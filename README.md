@@ -6,7 +6,7 @@ I am exceptionally passionate about utilizing my creativity in designing; develo
 
 Experience with JavaScript, Node.js, and discord.js has helped me develop multiple bots on a communication platform called [Discord](https://discord.com/). The bots that I have created are **Game-Bug Bot**, **BetterFilter**, and **Badge Info**.
 
-## 🔧 Technologies and Tools
+<img src="https://github.com/AmusingDev/AmusingDev/blob/main/images/Technologies_&_Tools.png?raw=true">
 
 <img src="https://img.shields.io/badge/OS-Windows-%230074CF?style=for-the-badge" alt="Windows"> <img src="https://img.shields.io/badge/Editor-Atom-%2347D89E?style=for-the-badge" alt="Atom"> <img src="https://img.shields.io/badge/Code-HTML-%23E44D26?style=for-the-badge" alt="HTML"> <img src="https://img.shields.io/badge/Code-CSS-%23254BDD?style=for-the-badge" alt="CSS"> <img src="https://img.shields.io/badge/Code-JavaScript-%23F7E018?style=for-the-badge" alt="JavaScript"> <img src="https://img.shields.io/badge/Library-JQuery-%23F7E018?style=for-the-badge" alt="JQuery"> <img src="https://img.shields.io/badge/Library-discord.js-%23F7E018?style=for-the-badge" alt="discord.js"> <img src="https://img.shields.io/badge/Runtime-Node.js-%23509941?style=for-the-badge" alt="Node.js">
 

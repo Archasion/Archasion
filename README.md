@@ -1,6 +1,6 @@
 # :wave: Hello there!
 
-My name is Nick, and I am a freelancing **Front-End Developer**, with experience using HTML, CSS, JavaScript, Node.js, JQuery, discord.js, and SQL.
+My name is James, and I am a freelancing **Front-End Developer**, with experience using HTML, CSS, JavaScript, Node.js, JQuery, discord.js, and SQL.
 
 I am exceptionally passionate about utilizing my creativity in designing; developing a professional website for my clients. I am regularly looking for feedback to assist me in strengthening my skills.
 

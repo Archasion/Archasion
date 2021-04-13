@@ -33,6 +33,6 @@ Experience with JavaScript, Node.js, and discord.js has helped me develop multip
 
 ## 📊 Statistics
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amusingdev&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&include_all_commits=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=archasion&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&include_all_commits=true)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amusingdev&theme=vision-friendly-dark&layout=default&hide_border=true&card_width=495px)](https://github.com/amusingdev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archasion&theme=vision-friendly-dark&layout=default&hide_border=true&card_width=495px)](https://github.com/archasion)

@@ -10,18 +10,15 @@ Experience with JavaScript, Node.js, and discord.js has helped me develop multip
 
 ## :wrench: Technologies & Tools
 
-<img src="https://img.shields.io/badge/OS-Windows-%230074CF?style=for-the-badge" alt="Windows" onclick="window.location.href('https://windows.com')"> <img src="https://img.shields.io/badge/Editor-Atom-%2347D89E?style=for-the-badge" alt="Atom"> <img src="https://img.shields.io/badge/Code-HTML-%23E44D26?style=for-the-badge" alt="HTML"> <img src="https://img.shields.io/badge/Code-CSS-%23254BDD?style=for-the-badge" alt="CSS"> <img src="https://img.shields.io/badge/Library-JQuery-%23F7E018?style=for-the-badge" alt="JQuery"> <img src="https://img.shields.io/badge/Code-JavaScript-%23F7E018?style=for-the-badge" alt="JavaScript"> <img src="https://img.shields.io/badge/Library-discord.js-%23F7E018?style=for-the-badge" alt="discord.js"> <img src="https://img.shields.io/badge/Runtime-Node.js-%23509941?style=for-the-badge" alt="Node.js">
+<img src="https://img.shields.io/badge/OS-Windows-%230074CF?style=for-the-badge" alt="macOS" onclick="window.location.href('https://windows.com')"> <img src="https://img.shields.io/badge/Editor-VSCode-%2347D89E?style=for-the-badge" alt="Atom"> <img src="https://img.shields.io/badge/Code-HTML-%23E44D26?style=for-the-badge" alt="HTML"> <img src="https://img.shields.io/badge/Code-CSS-%23254BDD?style=for-the-badge" alt="CSS"> <img src="https://img.shields.io/badge/Library-JQuery-%23F7E018?style=for-the-badge" alt="JQuery"> <img src="https://img.shields.io/badge/Code-JavaScript-%23F7E018?style=for-the-badge" alt="JavaScript"> <img src="https://img.shields.io/badge/Library-discord.js-%23F7E018?style=for-the-badge" alt="discord.js"> <img src="https://img.shields.io/badge/Runtime-Node.js-%23509941?style=for-the-badge" alt="Node.js">
 
 <br>
 
 ## :computer: Projects
 
 <img src="https://github.com/AmusingDev/AmusingDev/blob/main/images/js.png?raw=true" width="15px" height="15px" alt="js-icon"> &nbsp; [Game-Bug Bot](https://github.com/AmusingDev/Game-Bug-Bot) (Verified Discord Bot) <br>
-<img src="https://github.com/AmusingDev/AmusingDev/blob/main/images/js.png?raw=true" width="15px" height="15px" alt="js-icon"> &nbsp; [BetterFilter](https://github.com/AmusingDev/BetterFilter) (Discord Bot) <br>
+<img src="https://github.com/AmusingDev/AmusingDev/blob/main/images/js.png?raw=true" width="15px" height="15px" alt="js-icon"> &nbsp; [BetterFilter](https://github.com/AmusingDev/BetterFilter) (Verified Discord Bot) <br>
 <img src="https://github.com/AmusingDev/AmusingDev/blob/main/images/js.png?raw=true" width="15px" height="15px" alt="js-icon"> &nbsp; [Badge Info](https://github.com/AmusingDev/Badge-Info) (Discord Bot) <br>
-<img src="https://github.com/AmusingDev/AmusingDev/blob/main/images/js.png?raw=true" width="15px" height="15px" alt="js-icon"> &nbsp; [Amusing Helper](https://github.com/AmusingDev/Amusing-Helper) (Open-source Discord Bot)
-
-<img src="https://github.com/AmusingDev/AmusingDev/blob/main/images/html.png?raw=true" width="18px" height="18px" alt="js-icon"> &nbsp; [amusing.dev](https://amusing.dev) (Personal Website - Coming Soon)
 
 <br>
 

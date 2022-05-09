@@ -1,12 +1,10 @@
 # Hello there!
 
-My name is James, and I am a freelancing **UI Designer** and **Software Engineering Student**
+My name is James, and I'm a freelancing **UI Designer** and **Software Engineering Student**
 
-I have experience using HTML, CSS, JavaScript, Node.js, JQuery and discord.js. I am currently learning MySQL, Java and C#.
+I am exceptionally passionate about utilizing my creativity in designing and developing **modern-looking** UI designs for my clients. I am regularly looking for feedback to assist me in strengthening my skills and improving my services.
 
-I am exceptionally passionate about utilizing my creativity in designing; developing a **modern-looking** UI design for my clients. I am regularly looking for feedback to assist me in strengthening my skills.
-
-Experience with JavaScript, Node.js, and discord.js has assisted me in developing multiple bots on a platform called [Discord](https://discord.com/).
+Experience with JavaScript, Node.js, and Discord.js has assisted me in developing multiple bots on a platform called [Discord](https://discord.com/).
 
 ## Experience with...
 
@@ -19,7 +17,7 @@ Experience with JavaScript, Node.js, and discord.js has assisted me in developin
 
 ## Projects
 
-🐞 [Bug Tracker](https://github.com/Archasion/bug-tracker)
+🐞 [Bug Tracker](https://github.com/Archasion/bug-tracker) (Discord Bot)
 
 ## Statistics
 

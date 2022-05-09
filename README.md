@@ -8,33 +8,18 @@ I am exceptionally passionate about utilizing my creativity in designing; develo
 
 Experience with JavaScript, Node.js, and discord.js has assisted me in developing multiple bots on a platform called [Discord](https://discord.com/).
 
-<br>
+## Experience with...
 
-## Technologies & Tools
-
-<img src="https://img.shields.io/badge/OS-macOS-%230074CF?style=for-the-badge" alt="macOS"> <img src="https://img.shields.io/badge/Editor-Visual Studio-%23844CC6?style=for-the-badge" alt="Visual Studio"> 
-
-<img src="https://img.shields.io/badge/Code-HTML-%23E44D26?style=for-the-badge" alt="HTML"> <img src="https://img.shields.io/badge/Code-CSS-%23254BDD?style=for-the-badge" alt="CSS"> <img src="https://img.shields.io/badge/Code-JavaScript-%23F7E018?style=for-the-badge" alt="JavaScript"> 
-
-<img src="https://img.shields.io/badge/Library-JQuery-%23F7E018?style=for-the-badge" alt="JQuery"> <img src="https://img.shields.io/badge/Library-discord.js-%23F7E018?style=for-the-badge" alt="discord.js"> 
-
-<img src="https://img.shields.io/badge/Runtime-Node.js-%23509941?style=for-the-badge" alt="Node.js">
-
-<br>
+* JavaScript (+ Node.js, jQuery & Discord.js)
+* JSON & YAML
+* HTML5
+* CSS3
+* NoSQL (MongoDB)
+* Python (fundemental)
 
 ## Projects
 
-Coming Soon
-
-<br>
-
-## Currently Learning
-
-<img src="https://img.shields.io/badge/Code-MySQL-%23006EBF?style=for-the-badge" alt="MySQL"> <img src="https://img.shields.io/badge/Code-Java-%23E06C00?style=for-the-badge" alt="Java">
-
-<img src="https://img.shields.io/badge/Library-JDA-%23E06C00?style=for-the-badge" alt="JDA">
-
-<br>
+🐞 [Bug Tracker](https://github.com/Archasion/bug-tracker)
 
 ## Statistics
 

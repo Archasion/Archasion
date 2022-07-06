@@ -17,7 +17,9 @@ Experience with JavaScript, Node.js, and Discord.js has assisted me in developin
 
 ## Projects
 
-🐞 [Bug Tracker](https://github.com/Archasion/bug-tracker) (Discord Bot)
+🐞 [Bug Tracker](https://github.com/Archasion/bug-tracker) (Discord Bot) <br>
+🔐 [Password Generator](https://github.com/Archasion/Password-Generator) (Chrome Extension) <br>
+⏰ [Discord Timestamp Builder](https://github.com/Archasion/Discord-Timestamp-Builder) (Website)
 
 ## Statistics
 

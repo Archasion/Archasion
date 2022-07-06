@@ -1,6 +1,6 @@
 # Hello there!
 
-My name is James, and I'm a freelancing **UI Designer** and **Software Engineering Student**
+My name is Nick, and I'm a freelancing **UI Designer** and **Software Engineering Student**
 
 I am exceptionally passionate about utilizing my creativity in designing and developing **modern-looking** UI designs for my clients. I am regularly looking for feedback to assist me in strengthening my skills and improving my services.
 
@@ -8,11 +8,11 @@ Experience with JavaScript, Node.js, and Discord.js has assisted me in developin
 
 ## Experience with...
 
-* JavaScript (+ Node.js, jQuery & Discord.js)
+* JavaScript, Node.js, jQuery & Discord.js
 * JSON & YAML
 * HTML5
 * CSS3
-* NoSQL (MongoDB)
+* MongoDB
 * Python (fundemental)
 
 ## Projects

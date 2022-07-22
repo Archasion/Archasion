@@ -8,12 +8,16 @@ Experience with JavaScript, Node.js, and Discord.js has assisted me in developin
 
 ## Experience with...
 
-* JavaScript, Node.js, jQuery & Discord.js
+* JavaScript
+* TypeScript
+* Python (fundemental)
+* MongoDB
 * JSON & YAML
 * HTML5
 * CSS3
-* MongoDB
-* Python (fundemental)
+* Node.js
+* jQuery
+* Discord.js
 
 ## Projects
 

@@ -1,31 +1,21 @@
-# Hello there!
+# About Me
+My name is Nick, and I'm a freelancing UI Designer and Software Engineering Student<br><br>I am exceptionally passionate about using my creativity to design and develop minimalistic UIs for both myself and my clients. I am regularly looking for feedback that could help me strengthen my skills as well as improve my services.<br><br>Experience with JavaScript, Node.js, and Discord.js has assisted me in developing multiple bots on a platform called Discord.
 
-My name is Nick, and I'm a freelancing **UI Designer** and **Software Engineering Student**
+## Socials
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19244184) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Archasion) 
 
-I am exceptionally passionate about utilizing my creativity in designing and developing **modern-looking** UI designs for my clients. I am regularly looking for feedback to assist me in strengthening my skills and improving my services.
+# Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
+# GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Archasion&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Archasion&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Archasion&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-Experience with JavaScript, Node.js, and Discord.js has assisted me in developing multiple bots on a platform called [Discord](https://discord.com/).
+## Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## Experience with...
+## You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Archasion) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Archasion) 
 
-* JavaScript
-* TypeScript
-* Python (fundemental)
-* MongoDB
-* JSON & YAML
-* HTML5
-* CSS3
-* Node.js
-* jQuery
-* Discord.js
-
-## Projects
-
-🐞 [Bug Tracker](https://github.com/Archasion/bug-tracker) (Discord Bot) <br>
-🔐 [Password Generator](https://github.com/Archasion/Password-Generator) (Chrome Extension) <br>
-⏰ [Discord Timestamp Builder](https://github.com/Archasion/Discord-Timestamp-Builder) (Website)
-
-## Statistics
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=archasion&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archasion&theme=vision-friendly-dark&layout=default&hide_border=true&card_width=495px)](https://github.com/archasion)
+  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  

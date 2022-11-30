@@ -3,7 +3,7 @@ My name is Nick, and I am a **software engineering enthusiast**
 
 I am passionate about using my creativity to design and develop minimalistic UIs for my clients, as well as my own projects. I am regularly looking for feedback that could help me strengthen my skills.
 
-Experience with JavaScript, Node.js, and Discord.js has helped me develop multiple bots on a communication platform called [Discord](https://discord.com/).
+Experience with TypeScript, Node.js, and Discord.js has helped me develop multiple bots on a communication platform called [Discord](https://discord.com/).
 
 ## Socials
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19244184) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Archasion) 

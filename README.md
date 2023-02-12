@@ -6,6 +6,7 @@ I am passionate about using my creativity to design and develop minimalistic UIs
 Experience with TypeScript, Node.js, and Discord.js has helped me develop multiple bots on a communication platform called [Discord](https://discord.com/).
 
 [![](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/19244184)
+[![](https://skillicons.dev/icons?i=discord)](https://discord.com/users/556206370429599755)
 
 # Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,ts,rust,css,html,bots,xd,regex,nodejs,mongodb,git,md)](https://skillicons.dev)

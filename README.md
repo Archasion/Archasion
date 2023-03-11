@@ -9,7 +9,7 @@ Experience with TypeScript, Node.js, and Discord.js has helped me develop multip
 [![](https://skillicons.dev/icons?i=discord)](https://discord.com/users/556206370429599755)
 
 # Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,rust,css,html,bots,xd,regex,nodejs,mongodb,git,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,rust,css,html,nodejs,mongodb,git)](https://skillicons.dev)
 
 # GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Archasion&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>

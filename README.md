@@ -14,6 +14,3 @@ Experience with TypeScript, Node.js, and Discord.js has helped me develop multip
 # Metrics
 
 ![Metrics](https://github.com/Archasion/Archasion/blob/main/github-metrics.svg)
-
-## Random Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)

@@ -9,10 +9,10 @@ Experience with TypeScript, Node.js, and Discord.js has helped me develop multip
 [![](https://skillicons.dev/icons?i=discord)](https://discord.com/users/556206370429599755)
 
 # Tech Stack
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics" draggable="false">
-</picture>
+![](https://skillicons.dev/icons?i=js,ts,rust,mongodb,git,nodejs,html,css)
 
 # Metrics
 
-![Metrics](https://github.com/Archasion/Archasion/blob/main/github-metrics.svg)
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics" draggable="false">
+</picture>

@@ -9,7 +9,9 @@ Experience with TypeScript, Node.js, and Discord.js has helped me develop multip
 [![](https://skillicons.dev/icons?i=discord)](https://discord.com/users/556206370429599755)
 
 # Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,rust,css,html,nodejs,mongodb,git)](https://skillicons.dev)
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics" draggable="false">
+</picture>
 
 # Metrics
 

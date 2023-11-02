@@ -9,7 +9,7 @@ Experience with TypeScript, Node.js, and Discord.js has helped me develop multip
 [![](https://skillicons.dev/icons?i=discord)](https://discord.com/users/556206370429599755)
 
 # Tech Stack
-![](https://skillicons.dev/icons?i=js,ts,rust,mongodb,git,nodejs,html,css)
+![](https://skillicons.dev/icons?i=js,ts,rust,mongodb,git,nodejs,html,css,sqlite)
 
 # Metrics
 

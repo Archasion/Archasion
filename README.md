@@ -1,17 +1,10 @@
-# About Me
-My name is Nick, and I am a **software engineering enthusiast**
+# Hi, I'm Nick 🌱
+Welcome to my profile! I'm an aspiring software engineer based in the United Kingdom.
 
-I am passionate about using my creativity to design and develop minimalistic UIs for my clients, as well as my own projects. I am regularly looking for feedback that could help me strengthen my skills.
-
-Experience with TypeScript, Node.js, and Discord.js has helped me develop multiple bots on a communication platform called [Discord](https://discord.com/).
-
-[![](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/19244184)
-[![](https://skillicons.dev/icons?i=discord)](https://discord.com/users/556206370429599755)
-
-# Tech Stack
+## Tech Stack
 ![](https://skillicons.dev/icons?i=js,ts,rust,mongodb,git,nodejs,html,css,sqlite)
 
-# Metrics
+## Metrics
 
 <picture>
   <img src="/github-metrics.svg" alt="Metrics" draggable="false">
